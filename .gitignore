@@ -1,11 +1,5 @@
-# Yarn Berry without Zero-Install
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
+# NPM Depedencies
+node_modules
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,windows
