@@ -27,6 +27,6 @@ jobs:
           git config --global user.email "connect@danang.id"
           git commit -m "[Automated] Update README with new Office quote"
       - name: Push
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
