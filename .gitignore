@@ -1,12 +1,11 @@
-# Yarn with Zero Install
+# Yarn Berry without Zero-Install
+.pnp.*
 .yarn/*
-!.yarn/cache
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
-
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,windows
