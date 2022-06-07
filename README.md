@@ -98,7 +98,7 @@ Want to know more about me? [Check out my portfolio](https://danang.id/).
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> Everybody stay calm! Stay f*&#!#% calm!
 >
 > <p>- Michael Scott</p>
 
