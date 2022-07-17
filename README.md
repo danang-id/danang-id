@@ -98,9 +98,9 @@ Want to know more about me? [Check out my portfolio](https://danang.id/).
 
 ## 📣 How about an Office quote before you go?
 
-> Bears, Beets, Battlestar Galactica.
+> Dwight, you ignorant slut!
 >
-> <p>- Jim Halpert</p>
+> <p>- Michael Scott</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
