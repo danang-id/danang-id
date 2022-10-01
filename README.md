@@ -98,9 +98,9 @@ Want to know more about me? [Check out my portfolio](https://danang.id/).
 
 ## 📣 How about an Office quote before you go?
 
-> I. Declare. Bankruptcy!
+> Did I stutter?
 >
-> <p>- Michael Scott</p>
+> <p>- Stanley Hudson</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
