@@ -98,9 +98,9 @@ Want to know more about me? [Check out my portfolio](https://danang.id/).
 
 ## 📣 How about an Office quote before you go?
 
-> Shut up about the sun. SHUT UP ABOUT THE SUN!
+> Bears, Beets, Battlestar Galactica.
 >
-> <p>- Gabe Lewis</p>
+> <p>- Jim Halpert</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/)_
 
