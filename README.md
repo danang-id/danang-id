@@ -1,12 +1,14 @@
 [![GitHub Banner](./assets/banner.jpg)](https://danang.id)
 
-[![Visits Badge](https://badges.pufler.dev/visits/danang-id/danang-id)](https://danang.id)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/DanangGaluhT)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dananggaluht/)
+[![Years Badge](https://badges.pufler.dev/years/danang-id)](https://danang.id)
+[![Repos Badge](https://badges.pufler.dev/repos/danang-id)](https://github.com/danang-id?tab=repositories)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/danang-id)](https://github.com/danang-id)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/dananggaluht)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dananggaluht)
 
 Hi there 👋
 
-I’m Danang, a full Stack Engineer with 5+ years experiences in developing production ready projects. Highly enthusiastic in .NET and TypeScript, and very passionate about recent technology innovation. Build modern mobile and web applications with React Native, ASP.NET, etc., using the latest techniques and trends in mind. Fast learner with strong principle about security, privacy and cleanliness of a codebase.
+I’m Danang, a **Full Stack Engineer** with more than 5 years experiences in developing production ready projects. Highly enthusiastic in .NET and TypeScript, and very passionate about recent technology innovation. Build mobile and web applications using modern framework such as Flutter, ASP.NET, Next.js, etc. with the latest techniques and trends in mind. Fast learner with strong principle about security, privacy and cleanliness of a codebase.
 
 Want to know more about me? [Check out my portfolio](https://danang.id/).
 
