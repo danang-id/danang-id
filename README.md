@@ -8,7 +8,7 @@
 
 Hi there 👋
 
-I’m Danang, a **Full Stack Engineer** with more than 5 years experiences in developing production ready projects. Highly enthusiastic in .NET and TypeScript, and very passionate about recent technology innovation. Build mobile and web applications using modern framework such as Flutter, ASP.NET, Next.js, etc. with the latest techniques and trends in mind. Fast learner with strong principle about security, privacy and cleanliness of a codebase.
+I’m Danang, a **Full Stack Engineer** with more than 5 years experiences in developing production ready projects. Highly enthusiastic in Rust, Go, C#, and TypeScript, and very passionate about recent technology innovation. Build mobile and web applications using modern framework such as Flutter, ASP.NET, Next.js, etc. with the latest techniques and trends in mind. Fast learner with strong principle about security, privacy and cleanliness of a codebase.
 
 Want to know more about me? [Check out my portfolio](https://danang.id/).
 
